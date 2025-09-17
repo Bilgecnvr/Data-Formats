@@ -5,5 +5,10 @@
 	<pozisyon>Test Mühendisi</pozisyon>
 	<maas>12345.67</maas>
 	<ise_giris_tarihi>2024-10-05</ise_giris_tarihi>
+	<adres>
+		<sokak>1441.sokak</sokak>
+		<ilce>pendik</ilce>
+		<sehir>İstanbul</sehir>
+	</adres>
 	<aktif_mi>true</aktif_mi>
 </Personel>
