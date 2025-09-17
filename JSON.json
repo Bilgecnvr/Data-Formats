@@ -6,6 +6,11 @@
   "pozisyon":"Test Mühendisi",
   "maas":12345.67,
   "ise_giris_tarihi":"2024-10-05",
+  "adres": {
+   "sokak": "1441.sokak",
+   "ilce": "pendik",
+   "sehir": "İstanbul",
+          },
   "aktif_mi":true
   }
 }
