@@ -8,6 +8,6 @@ A personnel object has been modeled in the homework and displayed in **XML**, **
  `soyad` (string)   
  `pozisyon` (string)   
  `maas` (float) 
- `ise_giris_tarihi` (string, YYYY-MM-DD) 
+ `ise_giris_tarihi` (string, YYYY-MM-DD)
  `aktif_mi` (boolean) 
 
