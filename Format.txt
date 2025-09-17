@@ -3,5 +3,9 @@ ad: string
 soyad: string
 pozisyon: string
 maas: float
+adres:
+  sokak: string
+  ilce: string
+  sehir: string
 ise_giris_tarihi: string (YYYY-MM-DD)
 aktif mi: boolean
