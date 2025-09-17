@@ -1,0 +1,11 @@
+{
+ "Personel":{
+  "id":123,
+  "ad":"Bilge",
+  "soyad":"Canavar",
+  "pozisyon":"Test Mühendisi",
+  "maas":12345.67,
+  "ise_giris_tarihi":"2024-10-05",
+  "aktif_mi":true
+  }
+}

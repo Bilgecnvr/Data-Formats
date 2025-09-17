@@ -1,0 +1,9 @@
+<Personel>
+	<id>123</id>
+	<ad>Bilge</ad>
+	<soyad>Canavar</soyad>
+	<pozisyon>Test Mühendisi</pozisyon>
+	<maas>12345.67</maas>
+	<ise_giris_tarihi>2024-10-05</ise_giris_tarihi>
+	<aktif_mi>true</aktif_mi>
+</Personel>

@@ -1,0 +1,7 @@
+id: integer
+ad: string
+soyad: string
+pozisyon: string
+maas: float
+ise_giris_tarihi: string (YYYY-MM-DD)
+aktif mi: boolean
